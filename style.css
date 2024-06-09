@@ -1,0 +1,70 @@
+/* Resetting some default browser styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Styling hero section */
+.hero {
+    background-color: #f4f4f4;
+    padding: 6;
+    text-align: center
+}
+
+#ban{       
+    background-color: #f4f4f4;
+    padding: 6%;
+    font-size: 80px;
+  
+    
+}
+
+#WC {  
+    background-color: #f4f4f4;
+    padding: 50px;
+    font-size: 50px;
+  
+}
+
+
+/* Styling file section */
+.affidavit {
+    background-color: #f4f4f4;
+    padding: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* Styling footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
